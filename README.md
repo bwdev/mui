@@ -35,7 +35,7 @@ See some [screenshots](https://github.com/firstfloorsoftware/mui/wiki/Screenshot
   * A set of predefined page layouts for a consistent look & feel
 * Control styles
   * Styles for common WPF controls, such as Button, TextBlock, etc.
-  * All styles automatically adapt the dark and light theme and use accent colors where appropiate
+  * All styles automatically adapt the dark and light theme and use accent colors where appropriate
 * Customizable navigation framework
   * ILinkNavigator and IContentLoader interfaces for maximum flexibility
   * Content loader exception templates in ModernFrame
@@ -49,4 +49,5 @@ See some [screenshots](https://github.com/firstfloorsoftware/mui/wiki/Screenshot
 * Adapted the Windows Phone [RelativeAnimatingContentControl](http://msdn.microsoft.com/en-us/library/gg442303(v=vs.92).aspx) for custom indeterminate ProgressBar styling
 * ModernProgressRing styles taken from https://github.com/nigel-sampson/spinkit-xaml
 * Modern button icons in sample app taken from http://modernuiicons.com/
+
 
